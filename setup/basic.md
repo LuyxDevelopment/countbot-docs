@@ -37,13 +37,3 @@ UseExternalEmojis
 ManageRoles
 ```
 {% endhint %}
-
-Here are the default configurations. Read more about them [**here**](advanced.md).
-
-| Setting              | Default Value |
-| -------------------- | ------------- |
-| Consecutive Counting | false         |
-| Count Validation     | false         |
-| Chatting             | false         |
-| Sudden Death         | false         |
-| Items                | true          |
