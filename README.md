@@ -25,7 +25,3 @@ layout:
 {% hint style="info" %}
 Invite CountBot to your server [**here**](https://count.bot/invite).
 {% endhint %}
-
-{% content-ref url="setup/basic.md" %}
-[basic.md](setup/basic.md)
-{% endcontent-ref %}
