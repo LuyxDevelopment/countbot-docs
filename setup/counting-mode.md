@@ -2,6 +2,20 @@
 description: Learn how to setup a custom counting mode
 cover: ../.gitbook/assets/countbotblack.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Counting Mode

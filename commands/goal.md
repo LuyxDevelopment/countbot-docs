@@ -1,5 +1,5 @@
 ---
-description: View your CountBot profile
+description: View the counting goal
 cover: ../.gitbook/assets/countbotblack.png
 coverY: 0
 layout:
@@ -18,5 +18,5 @@ layout:
     visible: true
 ---
 
-# /profile
+# /goal
 

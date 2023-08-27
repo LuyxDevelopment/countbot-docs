@@ -14,6 +14,7 @@
 * [/achievements](commands/achievements.md)
 * [/config](commands/config.md)
 * [/count](commands/count.md)
+* [/goal](commands/goal.md)
 * [/help](commands/help.md)
 * [/info](commands/info.md)
 * [/invite](commands/invite.md)
@@ -26,7 +27,3 @@
 * [/reset](commands/reset.md)
 * [/updates](commands/updates.md)
 * [/vote](commands/vote.md)
-
-***
-
-* [CountBot Plus](countbot-plus.md)
